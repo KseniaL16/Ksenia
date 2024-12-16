@@ -1,0 +1,75 @@
+body {
+  background-color: rgb(240, 217, 216);
+
+}
+
+.kepapirma {
+
+padding: 20px;
+margin: 0 1400px;
+}
+
+.kepaotra {
+
+  padding: 20px;
+  margin: 0 1000px;
+  }
+  .attels {
+
+    padding: 20px;
+    margin: 0 1050px ;
+    }
+
+    .bilde {
+      width: 300px;
+      height: 400px;
+      float: left;
+      padding:100px
+     
+    }
+    .tekst {
+      font-size: 40px;
+      color: rgb(116, 48, 90);
+      margin: center;
+      padding:150px
+      
+    }
+
+.nosaukums {
+margin: 0 1080px;
+color: indianred;
+font-size: 150px;
+
+  }
+
+  .tinos-regular {
+    font-family: "Tinos", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .tinos-bold {
+    font-family: "Tinos", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .tinos-regular-italic {
+    font-family: "Tinos", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .tinos-bold-italic {
+    font-family: "Tinos", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  .eb-garamond-font {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  
